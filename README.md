@@ -19,8 +19,8 @@ $ node covidform.js
 - address
 - zipcode
 - town
-- datesortie
-- heuresortie 
+- datesortie (optional)
+- heuresortie (optional)
 - reason {travail,achats,sante,famille,handicap,sport_animaux,convocation,missions,enfants}
 
 URL d'exemple pour un GET : http://localhost:xxxx/?lastname=Emmanuel&firstname=Macron&birthday=01/01/2020&lieunaissance=Paris&address=29%20Rue%20De%20Paris&zipcode=75009&town=Lyon&reason=achats
