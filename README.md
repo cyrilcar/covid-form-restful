@@ -30,6 +30,7 @@ PS : Don't be evil with this project
 ## Crédits
 
 Ce projet a été réalisé à partir d'un fork du dépôt [deplacement-covid-19](https://github.com/LAB-MI/deplacement-covid-19)
+
 Il adapte la récente mise à jour Q4 2020 : [attestation-deplacement-derogatoire-q4-2020](https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020)
 
 Co-réalisation par :
